@@ -2,7 +2,6 @@
 agp = "8.10.0"
 koinAndroid = "3.5.3"
 koinAndroidxCompose = "3.5.3"
-koinAndroidxViewmodel = "2.2.3"
 koinCore = "3.5.3"
 kotlin = "2.0.21"
 coreKtx = "1.16.0"
